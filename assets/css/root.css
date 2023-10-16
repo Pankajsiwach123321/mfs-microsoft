@@ -1,0 +1,124 @@
+
+:root {
+    --fs-sm: 18px;
+    --fs-md: 12px;
+    --fs-lg: 21px;
+    --fs-xl: 38px;
+    /* color */
+    --color-main: #3B2E58;
+    --color-light-main: #47366A;
+    --color-dark-main: #2E2E2E;
+    --color-xldark:#8661c5ad;
+    --color-primery: #7956B1;
+    --color-purple:#8661C5;
+    --color-purple-light:#8661c5de;
+    --color-light-primery: #D59DFF;
+    --color-dark-primery: #0067B8;
+    --color-white-primery: #FAF9FD;
+    --color-white: #fff;
+    --color-black: #000;
+    --bg-main:#E9E6F5;
+    --bg-primery:#D59DFF;
+    /* font-family */
+    --ff-main: Segoe UI;
+}
+
+/* font-size */
+
+.fs-sm {
+    font-size: var(--fs-sm);
+}
+
+.fs-md {
+    font-size: var(--fs-md);
+}
+
+.fs-lg {
+    font-size: var(--fs-lg);
+}
+
+.fs-xl {
+    font-size: var(--fs-xl);
+}
+
+/* color */
+
+.color-white {
+    color: var(--color-white);
+}
+.color-white-primery {
+    color: var(--color-white-primery);
+}
+
+.color-black {
+    color: var(--color-black);
+}
+
+.color-main {
+    color: var(--color-main);
+}
+
+.color-light-main {
+    color: var(--color-light-main);
+}
+
+.color-dark-main {
+    color: var(--color-dark-main);
+}
+
+.color-primery {
+    color: var(--color-primery);
+}
+
+.color-light-primery {
+    color: var(--color-light-primery);
+}
+
+.color-dark-primery {
+    color: var(--color-dark-primery);
+}
+
+/* .font-family */
+.ff-main {
+    font-family: var(--ff-main);
+}
+
+@media (min-width:576px) {
+    :root {
+        --fs-sm: 18px;
+        --fs-md: 22px;
+        --fs-lg: 21px;
+        --fs-xl: 76px;
+        /* color */
+        --color-main: #3B2E58;
+        --color-light-main: #47366A;
+        --color-dark-main: #2E2E2E;
+        --color-primery: #7956B1;
+        --color-light-primery: #D59DFF;
+        --color-dark-primery: #0067B8;
+        --color-white-primery: #FFFFFF;
+        --color-black: #000;
+        /* font-family */
+        --ff-main: segoe UI;
+    }
+}
+
+@media (min-width:768px) {
+    :root {
+        --fs-sm: 18px;
+        --fs-md: 22px;
+        --fs-lg: 35px;
+        --fs-xl: 76px;
+        /* color */
+        --color-main: #3B2E58;
+        --color-light-main: #47366A;
+        --color-dark-main: #2E2E2E;
+        --color-primery: #7956B1;
+        --color-light-primery: #D59DFF;
+        --color-dark-primery: #0067B8;
+        --color-white-primery: #FFFFFF;
+        --color-black: #000;
+        /* font-family */
+        --ff-main: segoe UI;
+    }
+}
