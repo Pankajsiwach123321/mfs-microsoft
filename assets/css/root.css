@@ -89,17 +89,6 @@
         --fs-md: 22px;
         --fs-lg: 21px;
         --fs-xl: 76px;
-        /* color */
-        --color-main: #3B2E58;
-        --color-light-main: #47366A;
-        --color-dark-main: #2E2E2E;
-        --color-primery: #7956B1;
-        --color-light-primery: #D59DFF;
-        --color-dark-primery: #0067B8;
-        --color-white-primery: #FFFFFF;
-        --color-black: #000;
-        /* font-family */
-        --ff-main: segoe UI;
     }
 }
 
@@ -109,16 +98,5 @@
         --fs-md: 22px;
         --fs-lg: 35px;
         --fs-xl: 76px;
-        /* color */
-        --color-main: #3B2E58;
-        --color-light-main: #47366A;
-        --color-dark-main: #2E2E2E;
-        --color-primery: #7956B1;
-        --color-light-primery: #D59DFF;
-        --color-dark-primery: #0067B8;
-        --color-white-primery: #FFFFFF;
-        --color-black: #000;
-        /* font-family */
-        --ff-main: segoe UI;
     }
 }
