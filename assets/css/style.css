@@ -202,8 +202,8 @@ footer ul li a:hover::after {
 }
 
 .card-founders {
-    min-width: 180.834px;
-    min-height: 172.299px;
+    min-width: 102.834px;
+    min-height: 102.299px;
     border-radius: 7.3px;
     cursor: pointer;
     background-color: var(--color-white-primery);
