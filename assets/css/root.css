@@ -1,7 +1,7 @@
 
 :root {
     --fs-sm: 18px;
-    --fs-md: 12px;
+    --fs-md: 17px;
     --fs-lg: 21px;
     --fs-xl: 38px;
     /* color */
@@ -87,7 +87,7 @@
     :root {
         --fs-sm: 18px;
         --fs-md: 22px;
-        --fs-lg: 21px;
+        --fs-lg: 26px;
         --fs-xl: 76px;
     }
 }
